@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "279923602288",
+    "firebase_url": "https://tutonotas-e0faa-default-rtdb.firebaseio.com",
+    "project_id": "tutonotas-e0faa",
+    "storage_bucket": "tutonotas-e0faa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279923602288:android:f86592f50678ce3c1bd5b5",
+        "android_client_info": {
+          "package_name": "com.example.tutonotas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWrXQ0H7ERMT8ruLcMVqMFHGB-aaC43a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279923602288:android:6beb302f30705fdb1bd5b5",
+        "android_client_info": {
+          "package_name": "com.example.tutotest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWrXQ0H7ERMT8ruLcMVqMFHGB-aaC43a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
